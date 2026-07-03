@@ -1,0 +1,7 @@
+file_name,exists,row_count,column_count,missing_required_columns,duplicate_id_count,status
+patients.csv,True,1163,25,,0,pass
+encounters.csv,True,61459,15,,0,pass
+conditions.csv,True,38094,6,,,pass
+medications.csv,True,56430,13,,,pass
+procedures.csv,True,83823,9,,,pass
+observations.csv,True,531144,9,,,pass
