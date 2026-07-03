@@ -2,6 +2,9 @@
 .env
 __pycache__/
 *.pyc
+*.zip
+
 data/raw/
 data/processed/
-*.zip
+
+.DS_Store
