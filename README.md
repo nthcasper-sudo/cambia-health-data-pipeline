@@ -23,10 +23,16 @@ RAG Data Access Copilot
 - Downloaded Synthea CSV dataset
 - Validated CSV files using Python
 - Generated data quality report
+- Created Snowflake database and schemas
+- Created Snowflake internal stage and CSV file format
+- Loaded validated CSV files into Snowflake RAW schema
 
 ## Current Artifact
 
 - `outputs/data_quality_report.csv`
+- `sql/00_verify_raw_load.sql`
+- `src/validate_synthea_csv.py`
+- `src/load_raw_to_snowflake.py`
 
 ## Tech Stack
 
